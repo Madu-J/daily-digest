@@ -32,7 +32,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS =
-['daily_digest.herokuapp.com', '8000-maduj-dailydigest-hxeczgfpny7.ws-eu107.gitpod.io']
+['d-digest-fb0f8a11fa4b.herokuapp.com', '8000-maduj-dailydigest-hxeczgfpny7.ws-eu107.gitpod.io']
 
 
 # Application definition
